@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-I have been doing open source development since 2001, initally mostly using C/C++, later PHP, and lately mostly Python.
-
+## Software Development
+- 2008 until Now: Python
+- 1995 until 2008: C/C++
+- 1999 until 2008: PHP, Visual Basic
+- 1993 until 1996: x86 Assembler, GW-Basic
+ 
