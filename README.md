@@ -6,3 +6,5 @@
 - 1999 until 2008: PHP, Visual Basic
 - 1993 until 1996: x86 Assembler, GW-Basic
  
+## Service Provider Preferences
+DNS - https://porkbun.com/
