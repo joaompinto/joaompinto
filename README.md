@@ -1,5 +1,8 @@
 # Hi there 👋
 
+## Currently working on:
+https://github.com/KindOS-workspace/system-profile
+
 ## Software Development
 - 2008 until Now: Python
 - 1995 until 2008: C/C++
@@ -9,5 +12,3 @@
 ## Service Provider Preferences
 DNS - https://porkbun.com/
 
-## Currently working on:
-https://github.com/KindOS-workspace/system-profile
