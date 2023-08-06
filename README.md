@@ -8,3 +8,6 @@
  
 ## Service Provider Preferences
 DNS - https://porkbun.com/
+
+# Currently working on:
+https://github.com/KindOS-workspace/system-profile
