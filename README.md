@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Currently working on:
-https://github.com/KindOS-workspace/system-profile
+-
 
 ## Software Development
 - 2008 until Now: Python
